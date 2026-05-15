@@ -11,7 +11,7 @@ This project was developed as part of a Data Engineering Bootcamp capstone submi
 ---
 
 # Architecture Overview
-
+```text
 Telemetry Producer
         ↓
 Kafka Topic
@@ -27,9 +27,7 @@ Batch Gold Pipelines
 Driver Safety + Fuel Efficiency + Fleet Reporting
         ↓
 Airflow Scheduled Orchestration
-
----
-
+```
 # Tech Stack
 
 | Component | Technology |
