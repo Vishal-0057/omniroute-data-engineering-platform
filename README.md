@@ -243,7 +243,7 @@ Detailed Spark batch and streaming output screenshots are documented here:
 
 Airflow orchestration screenshots and DAG execution flows:
 
-[View Airflow DAG Screenshots](airflow_screens.md)
+[View Airflow DAG Screenshots](Airflow_Screens.md)
 
 ---
 
