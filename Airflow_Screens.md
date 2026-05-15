@@ -10,5 +10,6 @@
 
 ### Monthly Driver Cooldown DAG
 
-![Monthly DAG](screenshots/monthly_driver_cooldown.png)
+<img width="3416" height="1648" alt="driver_cooldown" src="https://github.com/user-attachments/assets/98eaab2b-d83b-4ecd-98e6-f38ec57cb571" />
+
 
