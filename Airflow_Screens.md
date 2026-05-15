@@ -2,14 +2,26 @@
 
 ### Active DAGS
 
+![Details Screen1](screenshots/airflow_dag/Screenshot%202026-05-15%20at%206.48.41%E2%80%AFPM.png)
+
 ### Batch Processing DAG
 
-<img width="3348" height="1668" alt="vehicle_assignment_dag" src="https://github.com/user-attachments/assets/78e2b9ee-b56e-4d4a-9ded-39fc131d8297" />
+#### DAG DETAILS
 
+![Details Screen2](screenshots/airflow_dag/vehicle_assignment/details.png)
 
+#### DAG GRAPH
+
+![Monthly DAG3](screenshots/airflow_dag/vehicle_assignment/graph.png)
 
 ### Monthly Driver Cooldown DAG
 
-<img width="3416" height="1648" alt="driver_cooldown" src="https://github.com/user-attachments/assets/98eaab2b-d83b-4ecd-98e6-f38ec57cb571" />
+#### DAG DETAILS
+![DRIVER DAG4](screenshots/airflow_dag/monthly_cooldown/details.png)
+
+#### DAG GRAPH
+
+![Monthly DAG5](screenshots/airflow_dag/monthly_cooldown/graph.png)
+
 
 
