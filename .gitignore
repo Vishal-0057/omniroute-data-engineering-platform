@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venvs/
+venv/
+
+# Airflow
+airflow.db
+airflow-webserver.pid
+airflow-scheduler.pid
+logs/
+
+# Spark/Kafka binaries
+spark/
+kafka/
+*.tgz
+
+# Mac
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+
+# Temp
+tmp/

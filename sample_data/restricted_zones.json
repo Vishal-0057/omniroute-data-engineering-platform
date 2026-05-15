@@ -1,0 +1,30 @@
+[
+  {
+    "zone_name": "North",
+    "min_lat": 28.65,
+    "max_lat": 28.85,
+    "min_long": 77.1,
+    "max_long": 77.3
+  },
+  {
+    "zone_name": "South",
+    "min_lat": 28.45,
+    "max_lat": 28.65,
+    "min_long": 77.1,
+    "max_long": 77.3
+  },
+  {
+    "zone_name": "East",
+    "min_lat": 28.55,
+    "max_lat": 28.75,
+    "min_long": 77.3,
+    "max_long": 77.5
+  },
+  {
+    "zone_name": "West",
+    "min_lat": 28.55,
+    "max_lat": 28.75,
+    "min_long": 76.9,
+    "max_long": 77.1
+  }
+]
