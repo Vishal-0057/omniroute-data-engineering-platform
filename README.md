@@ -227,7 +227,7 @@ gold/driver_safety_status/month=2026-06/
 
 Detailed platform architecture:
 
-![Architecture Diagram](screenshots/architecture_diagram.png)
+![Architecture Diagram](screenshots/architecture_diagram/omniroute_architecture_diagram.png)
 
 ---
 
