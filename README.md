@@ -221,6 +221,38 @@ gold/driver_safety_status/month=2026-06/
 
 ---
 
+# Project Screenshots & Outputs
+
+## Architecture Diagram
+
+Detailed platform architecture:
+
+![Architecture Diagram](screenshots/architecture_diagram.png)
+
+---
+
+## Spark Pipeline Outputs
+
+Detailed Spark batch and streaming output screenshots are documented here:
+
+[View Spark Pipeline Outputs](spark_output.md)
+
+---
+
+## Airflow DAG Screenshots
+
+Airflow orchestration screenshots and DAG execution flows:
+
+[View Airflow DAG Screenshots](airflow_screens.md)
+
+---
+
+## S3 Data Lake Screenshots
+
+S3 Bronze/Silver/Gold layer screenshots and partitioned snapshot architecture:
+
+[View S3 Data Lake Screenshots](s3_screens.md)
+
 # Future Improvements
 
 - Delta Lake / Apache Iceberg integration
